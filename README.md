@@ -17,6 +17,7 @@
 ## About The Project
 
 The aim of this app is to document the development of Open Lifeworlds.
+The dev log is available at [open-lifeworlds.github.io](https://open-lifeworlds.github.io).
 
 ### Built With
 
@@ -33,8 +34,9 @@ tbd
 
 ## Roadmap
 
-See the [open issues](https://github.com/open-lifeworlds/open-lifeworlds.github.io/issues) for a list of proposed features (and
- known issues).
+See the [open issues](https://github.com/open-lifeworlds/open-lifeworlds.github.io/issues) for a list of proposed
+features (and
+known issues).
 
 ## Contact
 
